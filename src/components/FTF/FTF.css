@@ -1,0 +1,25 @@
+.flashing {
+    animation: flash-border 0.75s infinite linear;
+    border-width: 10px;
+}
+
+@keyframes flash-border {
+    0% {
+        border-color: red
+    }
+    20% {
+        border-color: yellow;
+    }
+    40% {
+        border-color: green;
+    }
+    60% {
+        border-color: blue;
+    }
+    80% {
+        border-color: violet;
+    }
+    100% {
+        border-color: red;
+    }
+}
