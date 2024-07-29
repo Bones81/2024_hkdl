@@ -198,20 +198,26 @@ const Performance = () => {
           />
         </div>
         <p>
-          As you are probably aware, there are 8 total carolers divided into 2
+          As you are probably aware, there are 12 total carolers divided into 3
           quartets this year.
           <ul>
             One quartet is slated to be:
-            <li>S: Katie</li>
+            <li>S: Rebekah</li>
             <li>A: Emilia</li>
             <li>T: Nathan</li>
             <li>B: Sean</li>
             <br />
-            And the other is:
+            Another is:
             <li>S: Sarah</li>
             <li>A: Chelsea</li>
-            <li>T: Omar</li>
+            <li>T: Brandon</li>
             <li>B: Johnny</li>
+            <br />
+            And the third is:
+            <li>S: Kelsey</li>
+            <li>A: Donna</li>
+            <li>T: Cesare</li>
+            <li>B: Jason</li>
           </ul>
         </p>
         <p>
@@ -227,15 +233,17 @@ const Performance = () => {
           the other quartet for a shift or two.
         </p>
         <p>
-          It is worth noting that - if one of us is sick and the other quartet's
+          It is worth noting that - if one of us is sick and another quartet's
           counterpart is not available - we may still be expected to perform
           caroling sets as a trio! In that case, we do our best to plan to sing
           songs that still (mostly) work without the missing caroler. I know
           that 'Santa Claus Is Coming' can work without a bass, for instance,
           and that often the tenor or alto can take over a soprano melody if the
-          soprano is out. <br />
-          <br /> But this scenario is incredibly rare. When an illness spread
-          through the carolers last year and we were down a person, the other
+          soprano is out. 
+          <br />
+          <br /> 
+          But this scenario is incredibly rare. When an illness spread
+          through the carolers one recent year, and we were down a person, the other
           three still had to report to work, but the SMs just kept us on
           "standby" all day. "Standby" is a fancy word for "we don't have
           anything for you to do, but we can't let you stay home because you're
@@ -253,7 +261,6 @@ const Performance = () => {
           counterpart in the other group. This effectively gave the bass-tenor
           duo four shifts when they could perform together.
         </p>
-
         <h3>
           Rehearsals, Performance Decisions, Authority/Working Together, Goode
           Time Rep, & Disney Christmas Shows
