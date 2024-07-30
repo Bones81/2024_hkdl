@@ -12,15 +12,6 @@ const Documents = () => {
         <h2 className="section-title toggle-section">
           Documents: a cheat sheet.
         </h2>
-        <h3 className="special-note">
-          ⭐️⭐️⭐️ By this point, all of us should have received,
-          signed, and completed our contracts and mailed off our visa
-          application materials to Fragomen, the agency handling our immigration
-          cases. The visas take 4-6 weeks to process and approve, and as of this
-          update (9/13/23), in 6 weeks it will be the Wednesday before we start
-          our contract. And, of course, we must have approved visas by
-          then!!! ⭐️⭐️⭐️
-        </h3>
         <div>
           <p>
             In the work <strong>visa application</strong> and{" "}
@@ -33,6 +24,13 @@ const Documents = () => {
             department and a company called Fragomen that helps us get our work
             visas from the Immigration Dept.
           </p>
+        <h3 className="special-note">
+          ⭐️⭐️⭐️ By this point, all of us should have received
+          our contracts from HKDL and our visa
+          application materials from Fragomen, the agency handling our immigration
+          cases. I know several of us have electronically signed our contracts and mailed off our visa application materials already. While we aren't in a huge rush yet, do not delay this process. If anything goes wrong, you'll need as much time as possible to ensure everything is approved before we leave for HK. 
+          The visas take 4-6 weeks to process and approve. ⭐️⭐️⭐️
+        </h3>
           <p>
             Eventually, when you FedEx your visa application materials to HK,
             make sure you <em>save your receipt(s)</em>, and make sure you{" "}
@@ -40,12 +38,9 @@ const Documents = () => {
             reimburse you.
           </p>
           <p>
-            Here is a cheat sheet to help you collect the appropriate paperwork,
-            even before you receive the official emails from HK Disney's HR
-            peeps requesting all these items. Especially for newbies, it may
+            Here is a cheat sheet of all the appropriate paperwork to collect. Especially for newbies, it may
             take a hot minute to collect everything, so I recommend starting to
-            collect these materials now so that you have them somewhat ready
-            when it's time to mail them or email them. You'll have to plan for
+            collect these materials now so that you can mail them or email them as soon as possible. You'll have to plan for
             at least 4-6 weeks processing time from the date you mail off your
             visa application materials.
           </p>
