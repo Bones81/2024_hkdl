@@ -22,6 +22,7 @@ import Performance from './components/performance/performance.jsx'
 import Transportation from './components/transportation/transportation.jsx'
 import Voting from './components/voting/voting.jsx'
 import FTF from './components/FTF/FTF.jsx'
+import ScrollToTop from './components/scroll_to_top.jsx'
 
 const router = createHashRouter([
   {
