@@ -15,7 +15,7 @@ const Flying = () => {
         <p>
           In recent years, they were careful to connect all of us
           to the same Hong Kong flight, even though we come from all over the
-          US. However, I suspect they may go back to the old system, where they would just have all of us arrive in Hong Kong within a couple hours of each other and have
+          US. And that may occur this year as well. However, I suspect they may go back to the old system, where they have all of us arrive in Hong Kong within a couple hours of each other and have
           Irene or someone from HR greet us in the airport arrivals hall, give
           us a welcome packet, and then set us up with taxis to our hotel. They would
           often time our arrival with additional expat face characters also
@@ -38,8 +38,9 @@ const Flying = () => {
           Depending on what airline you are on, you usually get two
           complimentary checked bags up to 50lbs, as well as 1 bag + 1 personal
           item to carry on (total carry-on weight 22lbs). The fees are often
-          hefty for exceeding the weight limits.
+          hefty for exceeding the weight limits. 
         </p>
+        <p>Be prepared for the possibility of being booked on an airline that offers only one complimentary checked bag. Unfortunately, Disney has historically not been willing to reimburse any luggage costs we have incurred as a result of such booking. </p>
         <p>
           I have usually traveled with 2 checked rolling suitcases/bags, a
           medium-sized duffle bag, and a medium-sized backpack. It's basically
