@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
 import {
-  createBrowserRouter,
+  createHashRouter,
   RouterProvider,
 } from "react-router-dom"
 import PageNotFound from './components/page_not_found.jsx'
@@ -23,7 +23,7 @@ import Transportation from './components/transportation/transportation.jsx'
 import Voting from './components/voting/voting.jsx'
 import FTF from './components/FTF/FTF.jsx'
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <App />,
