@@ -58,12 +58,12 @@ const Documents = () => {
           <li>
             <span>Copy of your passport info and signature page(s)</span>
           </li>
-          <li>
+          {/* <li>
             (Returning carolers only){" "}
             <span>
               Copy of your previous Hong Kong visa(s) and landing slip(s).
             </span>
-          </li>
+          </li> */}
           <li>
             <span>Copy of your updated CV/resume</span>
           </li>
