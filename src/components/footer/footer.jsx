@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <footer id='footer'>
             <h3 id="burger-info">
-                Use the hamburger menu in the upper right corner
+                Use the menu in the upper right corner
                 to visit different sections of the site! &#8599;
             </h3>
             <div className="footer-img-grid">
