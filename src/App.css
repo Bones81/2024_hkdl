@@ -148,7 +148,7 @@ table {
   width: 100vw;
   height: 100vh;
   background-color: black;
-  background-image: url('/dist/assets/Xmas\ tree.jpeg');
+  background-image: url('./assets/Xmas\ tree.jpeg');
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
