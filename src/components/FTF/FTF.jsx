@@ -8,12 +8,12 @@ const FTF = () => {
             alt="2017 carolers performing tree lighting"
           />
         </div>
-        <h2 className="special-note">
+        <h3 className="special-note">
           Welcome Brian, Cesare, Donna, Jason, Rebekah, and Kelsey!!
           <br />
           <br />
           Latest changes, 7/27/24: First 2024 update!
-        </h2>
+        </h3>
         <h2 className="section-title" id="first">
           First Things First
         </h2>

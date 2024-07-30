@@ -3,10 +3,10 @@ import './footer.css'
 const Footer = () => {
     return (
         <footer id='footer'>
-            <h3 id="burger-info">
+            <h2 id="burger-info">
                 Use the menu in the upper right corner
                 to visit different sections of the site! &#8599;
-            </h3>
+            </h2>
             <div className="footer-img-grid">
                 <img src="assets/AllCarolers2019.jpg" alt="2019 carolers" />
                 <img src="assets/ChelseaCarl.jpg" alt="Chelsea with Carl"/>
