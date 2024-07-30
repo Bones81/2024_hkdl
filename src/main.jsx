@@ -21,6 +21,7 @@ import Packing from './components/packing/packing.jsx'
 import Performance from './components/performance/performance.jsx'
 import Transportation from './components/transportation/transportation.jsx'
 import Voting from './components/voting/voting.jsx'
+import FTF from './components/FTF/FTF.jsx'
 
 const router = createBrowserRouter([
   {
@@ -51,6 +52,10 @@ const router = createBrowserRouter([
       {
         path: "food",
         element: <Food />
+      },
+      {
+        path: "first-things-first",
+        element: <FTF />
       },
       {
         path: "health",

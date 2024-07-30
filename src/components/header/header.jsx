@@ -20,7 +20,7 @@ const Header = () => {
     return (
         <>
             <div className="header">
-                <h1><a className='title-link' href="#top">HKDL Caroler Guide 2024</a></h1>
+                <h1><Link className='title-link' to="/">HKDL Caroler Guide 2024</Link></h1>
                 <div className="hamburger" onClick={toggleMenu}>
                     <div className="burger-line line-1"></div>
                     <div className="burger-line line-2"></div>
@@ -30,7 +30,7 @@ const Header = () => {
             <div className="menu">
                 <nav>
                     <ul id="navbar"> 
-                        <li className="nav-item"><Link to="/" onClick={toggleMenu}>First Things First</Link></li>
+                        <li className="nav-item"><Link to="/first-things-first" onClick={toggleMenu}>First Things First</Link></li>
                         <li className="nav-item"><Link to="/documents" onClick={toggleMenu}>Documents</Link></li>
                         <li className="nav-item"><Link to="/covid" onClick={toggleMenu}>Covid</Link></li>
                         <li className="nav-item"><Link to="/flying" onClick={toggleMenu}>Flying</Link></li>
