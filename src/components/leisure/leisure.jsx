@@ -196,7 +196,7 @@ const Leisure = () => {
           <li>Wisdom Path/Po Lin Monastery (near Big Buddha)</li>
           <li>HKDL's very own Inspiration Lake</li>
         </ul>
-        <h3>Restaurants</h3>
+        <h3 id="restaurants">Restaurants</h3>
         <ul className="leisure-ul">
           <li>
             Baba's Station - incredible Indian food in the smallest restaurant
