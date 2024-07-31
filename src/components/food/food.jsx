@@ -1,11 +1,14 @@
+import { Link } from "react-router-dom";
 const Food = () => {
     return (
       <section id="food">
         <h2 className="section-title">Food</h2>
+        <h4>"Sooo... What's the food situation like in HK? Where do we get food? What types of products are available? What food is HK known for? Will it be difficult to have dietary restrictions? Do they eat anything besides rice and pork dumplings?!??" Easy there, folks. The food situation in HK is awesome. Here's an overview!</h4>
         <h3>Groceries</h3>
+        <h4>We definitely have the space in our kitchenettes to store plenty of groceries and cook a fair amount. (See Thanksgiving!) Note that the apartments come with stovetop burners and a microwave, but if you want to have a toaster or oven for baking/roasting, you'll have to invest in a small toaster/toaster oven. At the end of the contract, these items are easy to give away/dozo to other expat performers.</h4>
         <p>
           Park 'n' Shop - literally in the same building as our hotel. Large and
-          generally wide selection of foods.
+          generally wide selection of foods. A good number of Western-style options.
         </p>
         <p>
           City Super - a large, nicer grocery store with more Western options in
@@ -46,7 +49,7 @@ const Food = () => {
         </p>
         <p>
           Which reminds me: Our schedule often doesn't give us a meal break
-          until after 2pm, meaning we don't necessarily get the full lunch menu
+          until after 2pm, meaning we don't necessarily have access to a full lunch menu
           but only the more limited tea time menu. Especially for
           vegetarian/vegan eaters, it often seems more reliable to bring your
           own meals. Microwaves are plentiful, so you can always heat something
@@ -62,8 +65,7 @@ const Food = () => {
         </p>
         <h3>Restaurants</h3>
         <p>
-          See restaurant list in the <a href="#leisure">Leisure</a> section
-          below
+          See restaurant list on the <Link to="/leisure">Leisure</Link> page
         </p>
         <h3>Street Food</h3>
         <p>
