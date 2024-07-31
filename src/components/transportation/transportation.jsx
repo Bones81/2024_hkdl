@@ -1,5 +1,5 @@
 import './transportation.css'
-
+import { Link } from 'react-router-dom';
 const Transportation = () => {
     return (
       <section id="transportation">
@@ -82,7 +82,7 @@ const Transportation = () => {
         <h4 className="special-note">
           No one uses the term 'cab' in HK. Only 'taxi.'
         </h4>
-        <h4>HK taxis come in three varieties: blue, green, and red.</h4>
+        <h4>Click 'Taxis' above to see a nice overview of the HK taxi system. A summary here follows. HK taxis come in three varieties: blue, green, and red.</h4>
         <ul className="trans-ul">
           <li>
             Blue taxis operate only within Lantau Island (where Disney and the
@@ -121,30 +121,27 @@ const Transportation = () => {
               Always get a receipt from the driver if you pay for a taxi ride.
             </strong>
           </em>{" "}
-          Then you can submit a reimbursement form for that taxi ride. You may
-          well submit receipts for several taxi fares at the same time.
+          Then you can submit a reimbursement request for that taxi ride.
         </p>
+        <h4>App recommendation: HKTaxi -- Once you have a Hong Kong phone number (see <Link to="/communication">Communication</Link> page), you can download HKTaxi (
+          <a href="https://apps.apple.com/hk/app/hktaxi-taxi-hailing-app/id660232595?l=en-GB" target='_blank'>Apple</a>, <a href="https://play.google.com/store/apps/details?id=com.cornermation.calltaxi&hl=en_US&pli=1" target='_blank'>Google/Android</a>
+        ), an app which enables you to request HK taxi services. It is not as easy to use as Uber; most taxi drivers speak very little English. But it can be very useful in certain situations.</h4>
         <h3>Uber/Ride Share</h3>
         <p>
-          While Uber and other ride-share companies operate in HK, they are
-          technically banned and not as popular as they are in other major
-          cities. This is because HK has one of the best public transportation
-          networks in the world and also because taxis in HK are relatively
-          cheap compared to taxis in other major cities.
+          According to HK's local newspaper, the South China Morning Post, "Uber has been operating in Hong Kong since 2014, but its legal status has long been in question due to the city's lack of legislation solely for the regulation of ride-hailing apps. But generally, it is against the law for private vehicles to accept customers without a hire-car permit from the Transport Department."
         </p>
         <p>
-          That said, one major advantage to using an Uber/ride-share app is that
+          That said, Uber does still operate in HK, and one major advantage to using an Uber/ride-share app is that
           your route is pre-determined. There are definitely taxi drivers in HK
           who will try to take advantage of your foreigner naivete by taking an
           extended route to inflate your fare. Using an Uber avoids this
-          potential pitfall, though you should know that Uber is technically
-          illegal in Hong Kong.
+          potential pitfall, though you should be aware that Uber is technically illegal.
         </p>
         <h3>Walking in HK</h3>
         <p>
           Walking in HK is a workout! Particularly in Central, where the streets
           can be quite steep,{" "}
-          <strong>good shoes are extremely important</strong>.
+          <strong>good shoes are extremely important</strong>!
         </p>
         <p>
           Pedestrian overpasses take a little while to get used to in HK.
