@@ -58,7 +58,7 @@ const Housing = () => {
           Your browswer does not support the video tag.
         </video>
         <p className="img-caption">
-          This was how my first room at HPRC looked.
+          This was how my first room at HPRC looked. Most rooms are larger than this one.
         </p>
         <p>
           We are assigned our own studio-style "serviced apartment." It usually
@@ -73,7 +73,7 @@ const Housing = () => {
             <li>a small dining table</li>
             <li>a small couch/sitting area</li>
             <li>a television, ~32", with HDMI input and local channels</li>
-            <li>a wifi router</li>
+            <li>a dedicated wifi router</li>
             <li>a large closet</li>
             <li>a small night table on either side of the bed</li>
             <li>a small vanity nook/area</li>
