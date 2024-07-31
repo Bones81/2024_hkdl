@@ -174,10 +174,10 @@ const Money = () => {
           have to fill out transfer forms, verify your PIN code, and sign your
           name exactly as it appears on your passport.{" "}
         </p>
-        <h4 className="special-note">
+        <p className="special-note">
           Always bring your <strong>PASSPORT</strong> when conducting any
           banking business in HK!
-        </h4>
+        </p>
         <p>
           It is also possible to execute wire transfers via online banking.
           While it is a bit confusing to set up initially, it is extremely efficient once it is set up. You have to set up an online banking account and password, connect it to your phone number on file with the bank, set up your US bank account as a 'payee,' increase the international/electronic transfer limit, two-factor authenticate what feels like 30 times, and more before you are fully set up. But again, it is worth it. Contact me in HK if you
