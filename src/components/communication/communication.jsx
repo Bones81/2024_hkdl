@@ -4,24 +4,28 @@ const Communication = () => {
     return (
         <section id='communication'>
             <h2 className='section-title'>Communication</h2>
+            <h4 className='special-note'>We are more or less required to have a Hong Kong phone number while we are there in order to conduct certain types of communications with Disney, our banks, etc. You can obtain a HK phone number by putting a HK SIM card into your phone. If your phone has a physical SIM card slot, this will likely mean you have to replace a US SIM card, which you will then have to keep secure until you return to the US and can swap it back in. In recent years, the use of e-SIM has become more popular, and some phones are even capable of having multiple e-SIMs activated at once. In that case, you may be able to have both your US and HK e-SIMs active at the same time.</h4>
+            <h4 className='special-note'>If your US SIM card is active while in HK, be careful that your roaming is turned off so that you don't incur hefty international roaming charges!</h4>
             <h3>Mobile phone options</h3>
                 <ol className="comm-ol phone-options">
                     <li className="phone-option">You can bring an "unlocked" smartphone and purchase a pay-as-you-go SIM card in HK, giving you an HK telephone number. I'm fairly certain that most, if not all, recent Verizon iPhones are "unlocked" by default. Otherwise, you'd have to do your research and possibly get some help from a technician or retailer to "unlock" your phone for use on other networks.</li>
                     <li className="phone-option">Or, if you have a T-Mobile unlimited data plan, you can likely use your existing phone and native SIM card, without any addtional hassle. I am strongly considering switching to T-Mobile for this reason alone.</li>
                     <li className="phone-option">Some people have brought two phones, one being their everyday cell phone and the other usually being an older model they happen to have that they can throw an HK SIM card into.</li>
-                    <li className="phone-option">We did have one caroler whose phone of choice was an iPhone 4S! (Oh, Paul...) It worked, technically, but he ran into issues as we ended up downloading apps and generally using lots of bandwith and memory, straining his phone past the point of usefulness.</li>
+                    <li className="phone-option">We did have one caroler whose phone of choice was an iPhone 4S! (Oh, Paul...) It worked, technically, but he ran into issues as we ended up downloading necessary apps and generally using lots of bandwith and memory, straining his phone past the point of usefulness. I can't talk at this point because I'm still running around with an iPhone 8 Plus, so if I don't upgrade soon, I'll probably have similar issues. Lesson: if you're considering upgrading your phone before HK, it's probably worth it.</li>
+                    <li className="phone-option special-note">Bonus tidbit: There is no sales tax in HK, and some have used that as a pretext for making large purchases such as phones or laptops while in HK, to lower the relative cost. Something to consider...</li>
                 </ol>
             <h3>Apps to consider downloading</h3>    
                 <ul className="comm-ul">
                     <li>WhatsApp, if you don't have it already. It is the primary way many in HK communicate.</li>
-                    <li>Microsoft Teams. Boy this app was frustrating to use last year, but it's the one our stage managers insisted we had to use to communicate with them, so it will likely be necessary again this year.</li>
+                    <li>Microsoft Teams. Boy, this app has been frustrating to use the last couple of years, but it's the one our stage managers insisted we had to use to communicate with them, so it will likely be necessary again this year.</li>
                     <li>Facebook Messenger, if you don't have it already.</li>
                     <li>An exchange rate app to compare USD and HKD amounts. I like a popular one called XE.</li>
                     <li>A Cantonese-learning app. I like one called "Nemo Cantonese."</li>
                     <li>City Mapper. A great app that is often easier to use than Apple or Google Maps. Will help you navigate the city's complex public transit system like a pro.</li>
                     <li>Eventually, you may want to download our bank's mobile banking app, SCHK Mobile.</li>
                     <li>At some point during rehearsals, we will be guided through signing up for KronosMobile, Disney's HR app. It will enable you to see your advance schedule and figure out whether you forgot to clock in/clock out (not that that EVER happens, ahem).</li>
-                    <li>An important app we will need to submit reimbursements is called SAP Concur (and it is not intuitive; definitely don't try to do anything with it until we get to Disney and have some guidance).</li>
+                    <li>An important app we will need for submitting reimbursements is called SAP Concur (and it is NOT intuitive; definitely don't try to do anything with it until we get to Disney and have some guidance).</li>
+                    <li>HKTaxi is a useful app for requesting a HK taxi, particularly on late nights when you are in town after the MTR and/or buses have stopped running.</li>
                 </ul>
             <h3>VPNs - do you need one?</h3>
                 <p>For the most part, our wifi and internet access has been fairly solid in HK, both at our hotel and at Disney. That said, it is potentially a very useful investment to have a VPN on your device(s).</p>
