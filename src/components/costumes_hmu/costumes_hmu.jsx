@@ -22,16 +22,53 @@ const Costumes_HMU = () => {
           "You don't need to do anything except put a little product in your
           hair" before turning attention to the women.
         </p>
+        <h3>Emilia's Notes For Sophisticated Disney Ladies</h3>
         <p>
-          The returning ladies can shed more light on the hair and makeup
-          situation. I know mostly that it requires significant time investment
-          each day and that you will all become great friends with the hair
-          team.
+          Hey everyone! Emilia here! Just wanted to drop in and give a quick
+          overview to the women of the group about hair and makeup protocol at
+          HKDL. Once we start jumping into rehearsals, the creative team will
+          set aside one day for the makeup team to show us how to do our makeup,
+          and for the hair team to put our hair in an updo and have it
+          photographed for approval by creative. We will be receiving some basic
+          makeup items like blush, lipstick, eyeshadow, eyeliner, brushes, and
+          fake eyelashes.
+        </p>
+        <p className="special-note">
+          Please note that these items are not of the highest quality and I
+          highly recommend bringing some additional makeup supplies (including
+          your own face products and foundation) as well as some fake eyelashes
+          of your own. Historically I’ve brought a cheap sleeve of my own from
+          Amazon and I think Sarah got the same one last year.{" "}
+          <a href="https://a.co/d/8MnLTe0" target="_blank">
+            Here’s what I’ve used
+          </a>
+          , but feel free to grab your favorite!
+        </p>{" "}
+        <h4>The Daily Hair/Makeup Routine</h4>
+        <p>
+          Once we get into tech and performance, we will be doing our own makeup
+          every day. For Tree Lighting, we will get an updo every performance.
+          The team will most likely use hot tools every day so it’s a very good
+          idea to invest in a heat protector spray for your hair, especially if
+          it has a hard time with daily hot tool use. We will get around an hour
+          to an hour and fifteen minutes to do our hair and makeup each day. If
+          we find that this is not enough time, we can let our stage managers
+          know to push our call time back 15-30 minutes. We can feel it out
+          during our tech and early performance schedule.
         </p>
         <p>
-          Ladies will likely have to prep their hair for wigs whenever we sing
-          carols. And then a Disney stylist will help with your hair for the
-          Tree Lighting show.
+          For caroling, we will be wigged, so prep your hair ahead of time for a
+          wig as needed. I also invested in my own wig cap just in case I need
+          an additional one or if the one they give us gets lost.{" "}
+        </p>
+        <p className="special-note">
+          Please note: During this time the men generally get to relax and do
+          whatever the hell they want (Sean, for example, will take the time to
+          see Mickey and the Wondrous Book every. single. morning.). I HIGHLY
+          recommend sending them to do some act of service like grabbing us
+          tasty treats from 7-11 or the cafeteria, or using this time to make up
+          set lists for the day. They get a ton more down time than the women,
+          so put them to work!!! 
         </p>
       </section>
     );
