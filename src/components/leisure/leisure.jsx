@@ -247,8 +247,8 @@ const Leisure = () => {
           />
           <p className="img-caption">2020 visit to Baba's Station</p>
           <li>
-            Beef and Liberty - excellent burgers, there's a location in Stanley
-            and one at the airport; it's often where I end up having my last
+            Beef and Liberty - excellent burgers, including vegan options. There's a location in Stanley
+            and one at the airport. That location is often where I have my last
             meal before I fly out of HK.
           </li>
           <img
@@ -493,6 +493,8 @@ const Leisure = () => {
           <p className="img-caption">
             2023 visit to Lockdown with Joni, one of our favorite leads!
           </p>
+          <li>Dragonfly - yet another super cool bar in/near Tai Kwun and Soho</li>
+          <li>K11 Speakeasy - Haven't been here yet but have heard cool things!</li>
           <li>Lan Kwai Fong - the party district of HK</li>
           <img
             className="list-pic"

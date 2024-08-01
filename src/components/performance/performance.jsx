@@ -414,6 +414,7 @@ const Performance = () => {
         occur on the fly! (Your lead just told you your set has been cut from 20
         minutes to 5 minutes. So much for set planning!)
       </p>
+      <p>At times we will know that a friend or family member is going to see a set, and we will often ask them ahead of time if they have any particular requests and then incorporate them into our set list. However, unlike some Goode Time gigs in the US, we have never taken live requests from the HKDL audience. (I suspect you would end up singing Jingle Bells a billion times if we did that!)</p>
       <p>
         Or, you can decide on a set list five minutes before every set by
         everyone shouting out the first song that pops into their head! (I
@@ -653,12 +654,13 @@ const Performance = () => {
       </p>
       <h4>Summary</h4>
       <p className="special-note">
-        The best policy will be to know everything from{" "}
-        <a href="#song-list">the "approved" list above</a> by the date you start
+        The best policy will be to know everything from
+        the approved list above by the date you start
         your contract, just in case Disney requests specific songs at any point.
         You might be scheduled to perform a special event in front of Disney
         executives, one of whom happens to love Mele Kelikimaka and has
-        requested it. In theory, we need to be able to deliver that song. <br />
+        requested it. In theory, we need to be able to deliver that song. 
+        <br />
         <br />
         The above comments about the song list are offered mostly to help you
         prioritize what songs you may need to learn or review as you prepare for
@@ -666,8 +668,8 @@ const Performance = () => {
       </p>
       <h3>Modifications to Goode Time carols</h3>
       <h4>
-        We will sometimes cut/alter some of the Goode Time carols for the sake
-        of a better performance in the HK Disney environment.
+        We will alter or cut some of the Goode Time carols for the sake
+        of a better performance in the HK Disney environment. It is entirely up to your quartet to decide if you want to incorporate these alterations. 
       </h4>
       <p>
         Below are some of the songs we have historically modified to play better

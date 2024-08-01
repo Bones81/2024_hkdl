@@ -14,15 +14,15 @@ const Money = () => {
           up fast.
         </p>
         <p>
-          It sometimes takes Disney a while to deposit our 3000HKD (~US$384) living allowance advance into
-          our HK accounts. (On the other hand, sometimes it happens within the
-          first week of work.) We will likely do the banking paperwork to set up
-          our HK accounts on day 1 or 2 of the contract, and then it takes the
-          bank 1-2 weeks to mail our ATM cards to Disney, at which point our
-          stage managers deliver them to us. All this is to say...it could be a
-          while before you have easy access to any of your Disney income or our
-          living allowance advance. Best to have some HKD cash ready for those first 3-4
-          weeks. 😉
+          It sometimes takes Disney a while to deposit our 3000HKD (~US$384)
+          living allowance advance into our HK accounts. (On the other hand,
+          sometimes it happens within the first week of work.) We will likely do
+          the banking paperwork to set up our HK accounts on day 1 or 2 of the
+          contract, and then it takes the bank 1-2 weeks to mail our ATM cards
+          to Disney, at which point our stage managers deliver them to us. All
+          this is to say...it could be a while before you have easy access to
+          any of your Disney income or our living allowance advance. Best to
+          have some HKD cash ready for those first 3-4 weeks. 😉
         </p>
         <p>
           One could also visit a currency exchange at the airport after you
@@ -30,9 +30,10 @@ const Money = () => {
           Better to acquire HKD another way.
         </p>
         <p>
-          After we have arrived and moved into our hotel, a currency exchange is conveniently very
-          close, in the attached shopping mall, should you still need to convert
-          funds. Or there are many currency exchange options in the heart of the city.
+          After we have arrived and moved into our hotel, a currency exchange is
+          conveniently very close, in the attached shopping mall, should you
+          still need to convert funds. Or there are many currency exchange
+          options in the heart of the city.
         </p>
         <h3>HK Currency</h3>
         <h4>The Hong Kong Dollar</h4>
@@ -70,6 +71,14 @@ const Money = () => {
           </a>
           {/* Locations? */}
         </h4>
+        <img
+          src="https://www.fintechfutures.com/files/2021/10/Standard_Chartered_2021.svg_-280x280.jpg"
+          alt="SCHK logo"
+          className="list-pic"
+        />
+        <p className="img-caption">
+          The logo of our bank, Standard Chartered HK (I just realized last year that it's an S and a C intertwined like a helix!)
+        </p>
         <p>
           For the past several years, Disney has guided us through setting up
           our bank accounts with Standard Chartered HK. SCHK is a large,
@@ -96,7 +105,9 @@ const Money = () => {
           Also worth noting is that our savings accounts are also multi-currency
           accounts, meaning that they can hold not only HK$ but also US$ (and
           currency from several other financial powers like China, Singapore,
-          Australia, etc.). This can come in handy when you are planning to travel to a country that uses one of those currencies or when you are preparing USD for a wire transfer.
+          Australia, etc.). This can come in handy when you are planning to
+          travel to a country that uses one of those currencies or when you are
+          preparing USD for a wire transfer.
         </p>
         <p>
           Our ATM cards can access either your savings or current accounts for
@@ -136,15 +147,20 @@ const Money = () => {
           feature.
         </p>
         <h4>Accessing/Depositing Your Living Allowance Advance</h4>
-        <p>Returning carolers who left their bank accounts open and shared the details of that account with Disney HR: You should have your living allowance directly deposited into your existing bank account. </p>
+        <p>
+          Returning carolers who left their bank accounts open and shared the
+          details of that account with Disney HR: You should have your living
+          allowance directly deposited into your existing bank account.{" "}
+        </p>
         <p>
           For new folks, shortly after signing up for your bank account, you
-          will likely receive your living allowance advance in the form of a paper check
-          from Disney that you must deposit or cash in order to access the funds. Direct
-          deposit will likely not be available for this advance. Instead, bring
-          your PASSPORT and the unendorsed check with you to a SCHK bank branch. The
-          teller will walk you through endorsing and depositing the check. You
-          will then be able to withdraw funds if you need them.
+          will likely receive your living allowance advance in the form of a
+          paper check from Disney that you must deposit or cash in order to
+          access the funds. Direct deposit will likely not be available for this
+          advance. Instead, bring your PASSPORT and the unendorsed check with
+          you to a SCHK bank branch. The teller will walk you through endorsing
+          and depositing the check. You will then be able to withdraw funds if
+          you need them.
         </p>
         <h4>Account Number, Routing Number, and your US bank SWIFT code</h4>
         <p>
@@ -166,13 +182,13 @@ const Money = () => {
           </li>
         </ol>
         <p>
-          Visit a branch of Standard Chartered HK to execute a wire transfer. They
-          will likely suggest that you convert the funds into US Dollars before
-          transferring them. This is a good idea, as you will get a better
-          exchange rate doing so than if you send HK Dollars to your US bank and
-          then have the US bank convert the amount into US Dollars. You will
-          have to fill out transfer forms, verify your PIN code, and sign your
-          name exactly as it appears on your passport.{" "}
+          Visit a branch of Standard Chartered HK to execute a wire transfer.
+          They will likely suggest that you convert the funds into US Dollars
+          before transferring them. This is a good idea, as you will get a
+          better exchange rate doing so than if you send HK Dollars to your US
+          bank and then have the US bank convert the amount into US Dollars. You
+          will have to fill out transfer forms, verify your PIN code, and sign
+          your name exactly as it appears on your passport.{" "}
         </p>
         <p className="special-note">
           Always bring your <strong>PASSPORT</strong> when conducting any
@@ -180,9 +196,14 @@ const Money = () => {
         </p>
         <p>
           It is also possible to execute wire transfers via online banking.
-          While it is a bit confusing to set up initially, it is extremely efficient once it is set up. You have to set up an online banking account and password, connect it to your phone number on file with the bank, set up your US bank account as a 'payee,' increase the international/electronic transfer limit, two-factor authenticate what feels like 30 times, and more before you are fully set up. But again, it is worth it. Contact me in HK if you
-          need assistance with this, and we'll find a time to walk through the
-          process.
+          While it is a bit confusing to set up initially, it is extremely
+          efficient once it is set up. You have to set up an online banking
+          account and password, connect it to your phone number on file with the
+          bank, set up your US bank account as a 'payee,' increase the
+          international/electronic transfer limit, two-factor authenticate what
+          feels like 30 times, and more before you are fully set up. But again,
+          it is worth it. Contact me in HK if you need assistance with this, and
+          we'll find a time to walk through the process.
         </p>
         <h4>When/How Much to Transfer</h4>
         <p>
@@ -205,18 +226,27 @@ const Money = () => {
           It is to your advantage to convert your income into US Dollars before
           you leave HK. That said, arranging for your funds to be converted into
           USD and withdrawn/transferred can be a source of great stress at the
-          end of the contract, mostly because our time at the end of the contract is extremely limited, making it harder to nail down a time to
+          end of the contract, mostly because our time at the end of the
+          contract is extremely limited, making it harder to nail down a time to
           do this banking business. Here is some of what we have learned about
           handling your money in this situation.
         </p>
-        <p className="special-note">I usually transfer as much of my income as possible to my US account via wire transfer and recommend the same to others. Yes, there is a cost to wire the money. But once it arrives in your US account, you just feel so much more at ease than if you are carrying around loads of cash on your person. The following advice is for anyone who prefers to avoid wire transfers, for whatever reasons.</p>
+        <p className="special-note">
+          I usually transfer as much of my income as possible to my US account
+          via wire transfer and recommend the same to others. Yes, there is a
+          cost to wire the money. But once it arrives in your US account, you
+          just feel so much more at ease than if you are carrying around loads
+          of cash on your person. The following advice is for anyone who prefers
+          to avoid wire transfers, for whatever reasons.
+        </p>
         <p>
           <b>
             If you plan to withdraw your money in the form of USD at the end of
             the contract
-          </b>, it is likely to be a larger sum of US bills than the
-          bank usually has available on any given day. Branches tend to have
-          US$2500 or less available, per customer, on a normal day, and you might wish to
+          </b>
+          , it is likely to be a larger sum of US bills than the bank usually
+          has available on any given day. Branches tend to have US$2500 or less
+          available, per customer, on a normal day, and you might wish to
           withdraw several times that amount! Therefore, it is{" "}
           <em>
             <strong>
@@ -224,15 +254,15 @@ const Money = () => {
               to withdraw A WEEK PRIOR to your withdrawal
             </strong>
           </em>{" "}
-          to let them know you plan to make a large withdrawal of USD in cash. This
-          head's up gives the bank time to ensure that it has enough US bills
-          available for your withdrawal.
+          to let them know you plan to make a large withdrawal of USD in cash.
+          This head's up gives the bank time to ensure that it has enough US
+          bills available for your withdrawal.
         </p>
         <p>
-          If you do not alert the bank branch ahead
-          of time, it may not have enough US bills available to convert all of
-          your funds into USD. You will be forced to withdraw the remainder in
-          HKD, do a wire transfer, or leave the funds in the account.
+          If you do not alert the bank branch ahead of time, it may not have
+          enough US bills available to convert all of your funds into USD. You
+          will be forced to withdraw the remainder in HKD, do a wire transfer,
+          or leave the funds in the account.
         </p>
         <p className="special-note">
           You can always convert HKD back to USD after you return to the US, but
@@ -276,6 +306,14 @@ const Money = () => {
           air, screwing me over royally!!{" "}
         </p>
         <h3>Octopus Card</h3>
+        <img
+          src="https://cdn.cheapoguides.com/wp-content/uploads/sites/7/2019/03/octopus-card_gdl-1280x600.jpg"
+          alt="Octopus Card"
+          className="list-pic"
+        />
+        <p className="img-caption">
+          The HK Octopus smart card, which you will use frequently!
+        </p>
         <p>
           The Octopus card is a rechargeable 'smart' card that works only in
           Hong Kong. You load it with cash anywhere Octopus is accepted and at
@@ -296,7 +334,11 @@ const Money = () => {
           </a>{" "}
           with more info about the Octopus card.
         </p>
-        <h4>You can pick up an Octopus card upon arrival before you leave the HK airport from a booth in the arrivals hall. Alternatively, you can pick up your card from any MTR station or even from a 7-11.</h4>
+        <h4>
+          You can pick up an Octopus card upon arrival before you leave the HK
+          airport from a booth in the arrivals hall. Alternatively, you can pick
+          up your card from any MTR station or even from a 7-11.
+        </h4>
         <h3>Taxes</h3>
         <h4 className="special-note">
           We will almost certainly have HKD$0 in HK tax obligations this year,
@@ -321,17 +363,59 @@ const Money = () => {
           it's likely not going to be worth the government's time and money to
           audit any of us over the amount of income tax we're dealing with here.
           So, don't let it stress you out. Get a tax pro to help if you're super
-          concerned. 
+          concerned.
         </p>
-        <p>Here is a super-brief breakdown of how I usually handle reporting of my HK income and the key legitimate deduction I take to save a ton:</p>
+        <p>
+          Here is a super-brief breakdown of how I usually handle reporting of
+          my HK income and the key legitimate deduction I take to save a ton:
+        </p>
         <ul>
-          <li>I claim the HK income as "miscellaneous income." We do not get a W-2 or a 1099 for this income, so this has been the most logical place to report it. In theory, one could report it as "foreign earned income," but that option has always necessitated being able to provide supporting documentation that, frankly, we don't get. So I report it as "miscellaneous income."</li>
-          <li>You can claim deductions for out-of-town meals and incidental expenses for each day you are out of town! In our case, that will be Oct. 28, 29, 30, 31 (4 days), 30 days of November, and 31 days of December -- a total of 65 days. (If you worked in HK last year, you could also claim Jan 1, 2024 as a 66th day.)</li>
-          <li>How much can you claim? This is the great part. I have found that you can use the per diem amount established by the State Dept. for official State Dept. work in other countries. The amount that you can claim for meals and incidental expenses in Hong Kong is $180, PER DAY. See "M & IE Rate" at <a href="https://aoprals.state.gov/web920/per_diem_action.asp?MenuHide=1&CountryCode=1126" target="_blank">this link</a> for verification.</li>
-          <li>That means you can claim deductions for meals and incidental expenses to the tune of 65 days X $180 / day. This equals $11700.</li>
-          <li>However, before you get too excited! For some reason, the way this deduction works is that you only get to claim 50% of this amount, and my tax software calculates this automatically for me when I put in the full amount ($11700 in this year's case). That still amounts to a $5850 reduction in how much income gets taxed. That has definitely saved me loads on my tax bill in some years.</li>
+          <li>
+            I claim the HK income as "miscellaneous income." We do not get a W-2
+            or a 1099 for this income, so this has been the most logical place
+            to report it. In theory, one could report it as "foreign earned
+            income," but that option has always necessitated being able to
+            provide supporting documentation that, frankly, we don't get. So I
+            report it as "miscellaneous income."
+          </li>
+          <li>
+            You can claim deductions for out-of-town meals and incidental
+            expenses for each day you are out of town! In our case, that will be
+            Oct. 28, 29, 30, 31 (4 days), 30 days of November, and 31 days of
+            December -- a total of 65 days. (If you worked in HK last year, you
+            could also claim Jan 1, 2024 as a 66th day.)
+          </li>
+          <li>
+            How much can you claim? This is the great part. I have found that
+            you can use the per diem amount established by the State Dept. for
+            official State Dept. work in other countries. The amount that you
+            can claim for meals and incidental expenses in Hong Kong is $180,
+            PER DAY. See "M & IE Rate" at{" "}
+            <a
+              href="https://aoprals.state.gov/web920/per_diem_action.asp?MenuHide=1&CountryCode=1126"
+              target="_blank"
+            >
+              this link
+            </a>{" "}
+            for verification.
+          </li>
+          <li>
+            That means you can claim deductions for meals and incidental
+            expenses to the tune of 65 days X $180 / day. This equals $11700.
+          </li>
+          <li>
+            However, before you get too excited! For some reason, the way this
+            deduction works is that you only get to claim 50% of this amount,
+            and my tax software calculates this automatically for me when I put
+            in the full amount ($11700 in this year's case). That still amounts
+            to a $5850 reduction in how much income gets taxed. That has
+            definitely saved me loads on my tax bill in some years.
+          </li>
         </ul>
-        <p>I'm happy to discuss this in more detail with anyone if you'd like to know more.</p>
+        <p>
+          I'm happy to discuss this in more detail with anyone if you'd like to
+          know more.
+        </p>
       </section>
     );
 }

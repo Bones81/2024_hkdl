@@ -31,7 +31,7 @@ const Header = () => {
                 <nav>
                     <ul id="navbar"> 
                         <li className="nav-item"><Link to="/first-things-first" onClick={toggleMenu}>First Things First</Link></li>
-                        <li className="nav-item"><Link to="/hong-kong" onClick={toggleMenu}>Hong Kong Map</Link></li>
+                        <li className="nav-item"><Link to="/hong-kong" onClick={toggleMenu}>Hong Kong</Link></li>
                         <li className="nav-item"><Link to="/documents" onClick={toggleMenu}>Documents</Link></li>
                         <li className="nav-item"><Link to="/housing" onClick={toggleMenu}>Housing</Link></li>
                         <li className="nav-item"><Link to="/food" onClick={toggleMenu}>Food</Link></li>
