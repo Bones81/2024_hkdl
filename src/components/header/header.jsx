@@ -32,6 +32,7 @@ const Header = () => {
                     <ul id="navbar"> 
                         <li className="nav-item"><Link to="/first-things-first" onClick={toggleMenu}>First Things First</Link></li>
                         <li className="nav-item"><Link to="/documents" onClick={toggleMenu}>Documents</Link></li>
+                        <li className="nav-item"><Link to="/hong-kong" onClick={toggleMenu}>Hong Kong Map</Link></li>
                         <li className="nav-item"><Link to="/covid" onClick={toggleMenu}>Covid</Link></li>
                         <li className="nav-item"><Link to="/flying" onClick={toggleMenu}>Flying</Link></li>
                         <li className="nav-item"><Link to="/voting" onClick={toggleMenu}>Voting</Link></li>

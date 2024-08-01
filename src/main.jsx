@@ -23,6 +23,7 @@ import Transportation from './components/transportation/transportation.jsx'
 import Voting from './components/voting/voting.jsx'
 import FTF from './components/FTF/FTF.jsx'
 import ScrollToTop from './components/scroll_to_top.jsx'
+import HongKong from './components/hong_kong/hong_kong.jsx'
 
 const router = createHashRouter([
   {
@@ -61,6 +62,10 @@ const router = createHashRouter([
       {
         path: "health",
         element: <Health />
+      },
+      {
+        path: "hong-kong",
+        element: <HongKong />
       },
       {
         path: "housing",

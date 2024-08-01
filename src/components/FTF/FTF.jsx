@@ -76,6 +76,7 @@ const FTF = () => {
               about handling illness, sick leave, and preventative care.
             </li>
             <li>Updated Favicon to a cute Christmas Tree.</li>
+            <li>Added Hong Kong map page.</li>
           </ul>
         </h3>
       </section>
