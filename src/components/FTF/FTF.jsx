@@ -75,6 +75,7 @@ const FTF = () => {
               Health Care page expanded significantly, with more information
               about handling illness, sick leave, and preventative care.
             </li>
+            <li>Updated Favicon to a cute Christmas Tree.</li>
           </ul>
         </h3>
       </section>
