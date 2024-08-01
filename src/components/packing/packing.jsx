@@ -96,6 +96,7 @@ const Packing = () => {
             they're also listed in the next section of items you should probably
             leave at home.
           </li>
+          <li>We have managed to see some Halloween costumes broken out in previous years. If you have a creative costume idea that you can pack, you may well get the opportunity to show it off. 🎃</li>
         </ul>
 
         <h3>
@@ -120,15 +121,13 @@ const Packing = () => {
           <li>
             Mass quantities of dress clothes/shoes. Unless you plan to hit the
             clubs in Lan Kwai Fong on the regular or just love wearing nice
-            things, you likely won’t wear nice clothes much on this contract.
-            98% of the time, we wear comfy, casual clothes--or our costumes. (DO
+            things, you likely won’t need to wear nice clothes much on this contract.
+            98% of the time, we wear whatever we want -- or our costumes. (DO
             BRING at least one 'business-casual,' outfit you can wear on the
-            very few occasions when Disney Look is required. Basically anything
+            very few occasions when Disney Look is required. This basically means anything
             that's not jeans or flip-flops.) So, bring 1-2 nicer outfits, but
-            that’s likely all you’ll need.
+            that’s likely all you’ll need, unless you just enjoy wearing the good stuff.
           </li>
-          {/* All this said, if Morgan comes up with another 'Ho Lang, Bitch' to perform at Petticoat Lane, FIERCE LEWKS will be encouraged 💃🕺. */}
-          {/* <li>We have managed to see some Halloween costumes broken out in previous years. Like everything this year, I'm sure Halloween will look different, but if you have a creative costume idea that you can pack, you may well get the opportunity to show it off. 🎃</li> */}
         </ul>
         <h3 id="electric">
           Electrical concerns -- Adapters vs. Converters: what do you need?
@@ -202,21 +201,20 @@ const Packing = () => {
           voltage for my American-made Magic Bullet blender. Turned out I didn't
           need the converter for my laptop or phone charger, both of which were
           dual-voltage and needed only an adapter. Because I used my blender
-          very little last year, I eventually gave away my voltage converter so
+          very little in subsequent years, I eventually gave away my voltage converter so
           that I wouldn't have to keep lugging around the extra ten pounds each
           contract. Sure, the converter did the job, but it was ten pounds!
         </p>
         <p>
           Appliances are plentiful in HK, and they are easy for us to dispose
           of/give away when the contract is done. There is a glorious store
-          called Mini So where I plan to purchase a cheap personal blender this
-          year. Single-cup coffee maker, alarm clock, personal scale, bluetooth
-          speakers, all manner of small appliances--already calibrated for HK
-          voltage--they can all be found in HK fairly easily.
+          called Mini So where one can purchase a cheap personal blender, for instance. Single-cup coffee maker, alarm clock, personal scale, bluetooth
+          speakers, all manner of small appliances -- already calibrated for HK
+          voltage -- they can all be found in HK fairly easily.
         </p>
         <p>
-          So, after going down the converter route for multiple contracts, I
-          have decided to go adapter-only this year.
+          So, after going down the converter route for my first couple of contracts, I
+          have decided to go adapter-only ever since.
         </p>
         <p>
           That said, here are some Amazon links to converter/adapter combos that
