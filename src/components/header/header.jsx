@@ -45,7 +45,6 @@ const Header = () => {
                         <li className="nav-item"><Link to="/costumes-hmu" onClick={toggleMenu}>Costumes, Hair, Makeup</Link></li>
                         <li className="nav-item"><Link to="/leisure" onClick={toggleMenu}>Leisure</Link></li>
                         <li className="nav-item"><Link to="/packing" onClick={toggleMenu}>Packing</Link></li>
-                        <li className="nav-item"><Link to="/just-for-fun" onClick={toggleMenu}>Just For Fun</Link></li>
                         {/* Add more links for other components */}
                     </ul>
                 </nav>
