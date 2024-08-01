@@ -24,7 +24,6 @@ const Leisure = () => {
         <iframe
           width="560"
           height="315"
-
           src="https://www.youtube.com/embed/PxPxiOrCkXs"
           title="YouTube video player"
           frameborder="0"
@@ -134,6 +133,14 @@ const Leisure = () => {
             has great ocean views, promenades, shopping, restaurants, and a
             prison museum
           </li>
+          <img
+            className="list-pic"
+            src="https://i.imgur.com/FTky5yd.jpeg"
+            alt="Nathan, Emilia, and Katie at Stanley"
+          />
+          <p className="img-caption">
+            Nathan, Emilia, and Katie take in the Stanley sunset in 2023
+          </p>
           <li>Lamma Island</li>
           <li>Cheung Chau Island</li>
           <li>Tai O fishing village</li>
@@ -141,13 +148,28 @@ const Leisure = () => {
             Sai Kung - a beautiful region in the extreme northeast part of HK
             featuring beaches, epic hikes, and a lively port neighborhood
           </li>
+          <img
+            src="https://i.imgur.com/iiZWw7l.jpeg"
+            alt="The pier at Sai Kung"
+            className="list-pic"
+          />
+          <p className="img-caption">The pier at Sai Kung</p>
           <li>
-            Day trip to Macau - This one involves leaving HK, and I am hopeful
-            we can do it this year! 🤞 Macau is the Vegas of the East. Walk a
-            casino floor, have a Portuguese egg tart (or seven), and see The
-            House of Dancing Water, one of the most amazing shows you'll ever
-            see.
+            Day trip to Macao - This one involves leaving HK, and it requires at
+            least a full day! 🤞 Macao is the Vegas of the East. Walk a casino
+            floor, have a Portuguese egg tart (or seven), and see The House of
+            Dancing Water, one of the most amazing shows you'll ever see. Or
+            spend your time in the Portuguese historic quarter, see the Ruins of
+            St. Paul's, or visit the Monte Forte Museum.
           </li>
+          <img
+            src="https://i.imgur.com/boUAOC8.jpeg"
+            alt="People in front of the Ruins of St. Paul's in Macao"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            In front of the Ruins of St. Paul's in Macao in 2023
+          </p>
         </ul>
         <h3>HK is one giant mall after another.</h3>
         <ul className="leisure-ul">
@@ -199,6 +221,21 @@ const Leisure = () => {
         <h3 id="restaurants">Restaurants</h3>
         <ul className="leisure-ul">
           <li>
+            Genki Sushi - Have to start with the one you can stumble to in your
+            pajamas, Genki! Literally one of the first places you encounter when
+            you enter the mall attached to our hotel, Genki has delicious sushi,
+            miso soup to die for, plenty of other vegetarian options, beer, and
+            even yuzu sorbet. And it's So. Stinkin'. Cheap.
+          </li>
+          <img
+            src="https://i.imgur.com/Vj62kOQ.jpeg"
+            alt="Carolers eating at Genki Sushi in 2023"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            Genki is often easier than cooking after a long work day. So good!
+          </p>
+          <li>
             Baba's Station - incredible Indian food in the smallest restaurant
             you've ever seen. You go for the food (not so much the drinks). In
             Tsuen Wan
@@ -210,20 +247,37 @@ const Leisure = () => {
           />
           <p className="img-caption">2020 visit to Baba's Station</p>
           <li>
-            Beef and Liberty - excellent burgers, one small location remained in
-            2022 in Sheung Wan/Sai Ying Pun
+            Beef and Liberty - excellent burgers, there's a location in Stanley
+            and one at the airport; it's often where I end up having my last
+            meal before I fly out of HK.
           </li>
+          <img
+            src="https://i.imgur.com/co2AGCl.jpeg"
+            alt="Food from Beef and Liberty"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            Beef and Liberty hits that burger and fries craving like no other
+            place in HK
+          </p>
           <li>
             Tim Ho Wan - cheapest Michelin star restaurant in the world, great
             roast pork buns, multiple locations
           </li>
-          <li>
-            Dim Dim Sum - another favorite dim sum spot, multiple locations
-          </li>
+          <img
+            src="https://i.imgur.com/rEEavYV.jpeg"
+            alt="Dim sum from Tim Ho Wan"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            Roast Pork Buns and other Tim Ho Wan tastiness
+          </p>
           <li>
             Mammy Pancake - best bubble waffles/egg puffs in town in the lower
-            Temple Street area
+            Temple Street area as well as other locations. Also conveniently in the Central Market!
           </li>
+          <img src="https://i.imgur.com/iMTsLBE.jpeg" alt="Nathan holds up his purchase from Mammy Pancake" className='list-pic'/>
+          <p className="img-caption">About to get my bubble waffle on!</p>
           <li>
             La Creperie - amazing French seaside resort-style crepes and
             galettes with delicious hard cider{" "}
@@ -240,11 +294,24 @@ const Leisure = () => {
             Little Bao - extremely cool contemporary Asian fusion in Causeway
             Bay
           </li>
+          <img
+            src="https://i.imgur.com/h2hedVQ.jpeg"
+            alt="Sandwich from Little Bao and a refreshing-looking cocktail"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            Little Bao's speciality are bao sandwiches like this one, among
+            other fun Asian fusion options.
+          </p>
           <li>Pici - fantastic upscale Italian chain, multiple locations</li>
-          <li>
-            Kebab House 23 - a great, if small, Turkish place, multiple
-            locations
-          </li>
+          <img
+            src="https://i.imgur.com/SEjoGUz.jpeg"
+            alt="Pasta and wine from Pici"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            Good pasta and good wine. What more do you need?
+          </p>
           <li>Ichiran - insanely delicious ramen in TST</li>
           <img
             className="list-pic"
@@ -262,23 +329,60 @@ const Leisure = () => {
             alt="divino patio"
           />
           <p className="img-caption">An awesome carpaccio from Divino Patio</p>
-          <li>
-            Chilli Lime - great Asian fusion in the YOHO Mall in Yuen Long
-          </li>
           <li>11 Westside - fantastic Mexican food in Kennedy Town</li>
+          <img
+            src="https://i.imgur.com/WlUarRQ.jpeg"
+            alt="Food at 11 Westside"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            Some of the exquisite Mexican dishes at 11 Westside
+          </p>
+          <li>
+            The Pizza Project - a fantastic pizza place in Central, from the
+            same restaurant group as Pici
+          </li>
+          <img
+            src="https://i.imgur.com/Yu9pETI.jpeg"
+            alt="a fancy pizza from The Pizza Project with a glass of white wine"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            Good pizza and good wine. I ask again: what more do you need?
+          </p>
           <li>Green Common - excellent vegan restaurant in TST</li>
+          <img
+            src="https://i.imgur.com/Nhh5zNM.jpeg"
+            alt="Omnipork dish at Green Common"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            A plant-based Omnipork brunch platter at Green Common
+          </p>
           <li>
             Hai Di Lao Hot Pot - we went there for our "Thanksgiving" meal in
             2022.
           </li>
+          <img
+            src="https://i.imgur.com/XIM0W83.jpeg"
+            alt="Hot Pot spread at Hai Di Lao in 2022"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            Part of the spread from the Thanksgiving 2022 visit to Hai Di Lao
+          </p>
           <li>Woodlands - vegetarian-friendly Indian food in TST</li>
+          <img
+            src="https://i.imgur.com/YbtVQPd.jpeg"
+            alt="Food from Woodlands"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            Awesome spread of Indian delights at Woodlands
+          </p>
           <li>MANY others!</li>
         </ul>
         <h3>Night Life</h3>
-        <h4 className="special-note">
-          Live music is allowed again in bars and pubs! A proper night life
-          should be much easier to experience this year!!!
-        </h4>
         <ul className="leisure-ul">
           <li>
             Ned Kelly's Last Stand - the bandleader, Colin, is one of our best
@@ -296,8 +400,7 @@ const Leisure = () => {
             alt="the band at Ned Kellys"
           />
           <p className="img-caption">
-            The band at Ned Kelly's in 2020 before live music in bars was
-            restricted
+            The band at Ned Kelly's Last Stand is insanely talented!
           </p>
           <img
             className="list-pic"
@@ -307,6 +410,20 @@ const Leisure = () => {
           <p className="img-caption">
             As is tradition, Colin made sure to get a selfie with "Kowloon
             Carolers" Emilia, Ivory, Nathan, and Sean (in spirit) in 2022.
+          </p>
+          <li>
+            Aqualuna, or a Junk Boat - Enjoying a beautiful night on a boat in
+            Victoria Harbour is an iconic Hong Kong experience. The Aqualuna is
+            a beautiful red-sailed vessel that brings a touch of old China to
+            the harbour.
+          </li>
+          <img
+            src="https://i.imgur.com/G3WsvlY.jpeg"
+            alt="The Aqualuna against the HK skyline"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            The Aqualuna always looks amazing in Victoria Harbour at night
           </p>
           <li>
             Old Man - one of the very best cocktail bars in the world,
@@ -333,10 +450,49 @@ const Leisure = () => {
             Drink in the clouds at Ozone, the highest bar in the city
           </p>
           <li>
-            Petticoat Lane - did someone say free vodka? (from 10p-11p, I think)
-            Also, the site of former caroler Morgan's debut live performance of
-            'Ho Lang, Bitch.'
+            COA, Hong Kong's most recent entry on CNN's list of the Best Bars in
+            the World. Get your tequila on in fancy ways!
           </li>
+          <img
+            src="https://i.imgur.com/9fIHjNK.jpeg"
+            alt="Carolers at COA in 2023"
+            className="list-pic"
+          />
+          <p className="img-caption">2023 visit to COA</p>
+          <li>
+            Argo - another of CNN's Best Bars in the World. Very sophisticated
+            drinks in the lobby of the Four Seasons hotel.
+          </li>
+          <img
+            src="https://i.imgur.com/oamgSV2.jpeg"
+            alt="The bar at Argo"
+            className="list-pic"
+          />
+          <p className="img-caption">The bar at Argo</p>
+          <li>
+            Maggie Choo's Hong Kong - a speakeasy in the style of an old bank.
+            The bathrooms are in the "vault."
+          </li>
+          <img
+            src="https://i.imgur.com/KubHOTw.jpeg"
+            alt="Katie and Emilia at Maggie Choo's in 2023"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            Katie and Emilia take in the ambience at Maggie Choo's in 2023
+          </p>
+          <li>
+            Lockdown - another speakeasy with classy cocktails and some cool
+            lighting
+          </li>
+          <img
+            src="https://i.imgur.com/vtlxBnV.jpeg"
+            alt="Carolers and Joni at Lockdown in 2023"
+            className="list-pic"
+          />
+          <p className="img-caption">
+            2023 visit to Lockdown with Joni, one of our favorite leads!
+          </p>
           <li>Lan Kwai Fong - the party district of HK</li>
           <img
             className="list-pic"
@@ -350,10 +506,6 @@ const Leisure = () => {
           <li>
             Knutsford Terrace / Miraplace in TST - cool strip of restaurants and
             live music clubs
-          </li>
-          <li>
-            COA, Hong Kong's most recent entry on CNN's list of the Best Bars in
-            the World. Get your tequila on in fancy ways!
           </li>
         </ul>
         <h4 id="top-bars-and-clubs">
@@ -468,13 +620,10 @@ const Leisure = () => {
         <h3>Celebrating Holidays</h3>
         <h4 className="holiday-title">Halloween 🎃</h4>
         <p>
-          Those carolers who start work on Oct. 30 will get to see HKDL with all
-          its Halloween decor. Sadly, they will promptly tear down that decor
-          and start preparing for Christmas decorations on Nov. 1.
+          This year we will arrive before Halloween season at HKDL is finished, which means we should see the park in all its Halloween glory!
         </p>
         <p>
-          However! The HKDL Halloween season show "Let's Get Wicked" should be
-          extended through early Nov., so hopefully we'll all be able to see it!
+          If HKDL is remounting its Halloween season show "Let's Get Wicked", we should all be able to see it!
           It's held in the Theater in the Wild where The Festival of the Lion
           King show runs for the majority of the year. (We should be able to see
           LK as well after it reopens in late Nov. or early Dec.)
@@ -485,9 +634,7 @@ const Leisure = () => {
           alt="Halloween 2020"
         />
         <p className="img-caption">The 2020 crew at Halloween.</p>
-        {/* <p>We are often invited to a Halloween party. Often, we just hold our own so that we aren't out partying far from home.</p>
-                <p>Trick-or-Treating is not so much a thing in Hong Kong, but that doesn't have to stop us from tricking-or-treating with each other! </p>
-                <p>Halloween spirit may be quite suppressed this year, at the park especially (since all the Halloween shows were cancelled). Again, that doesn't have to stop us if we want to celebrate a little.</p> */}
+        <p>We are sometimes invited to a Halloween party by other expats. Sometimes, we just hold our own so that we aren't out partying far from home, especially in the first week of the contract when we are still fighting through jet lag.</p>
         <h4 className="holiday-title">Thanksgiving 🦃</h4>
         <img
           className="list-pic"
@@ -499,7 +646,7 @@ const Leisure = () => {
           2020
         </p>
         <p>
-          We have historically coordinated a group Thanksgiving get-together. In
+          We have historically coordinated a group Thanksgiving get-together! In
           2019, we even included our stage managers who brought fun local foods
           and desserts to add to the potluck dinner.
         </p>
@@ -516,16 +663,17 @@ const Leisure = () => {
           pumpkin pies, green beans, brussels sprouts, wine, cocktails, etc.!
         </p>
         <p>
-          With 8 of us again this year, perhaps we can resurrect this caroler
-          tradition. That said, there's no shame at all in letting someone else
+          With 12 of us this year, it may be fun and challenging to coordinate a group Thanksgiving. Historically, whatever quartet is off on that Thursday takes the lead in cooking dishes, heating dishes, and setting up someone's room to host the big meal. Then, when the other quartet(s) finishes work, they come home and head straight to the gettogether. 
+        </p>
+        <p>That said, there's no shame at all in letting someone else
           do the cooking and the dishes. In 2022 we went to Hai Di Lao Hot Pot
-          and had an absolute feast!
+          and had an absolute feast! But we should absolutely celebrate in whatever way we can.
         </p>
         <h4 className="holiday-title">Christmas 🎁</h4>
         <p>
           By the time Christmas rolls around, we are usually pretty pooped. We
           have historically worked six-day (overtime) weeks during the two weeks
-          leading up to Christmas.
+          leading up to Christmas. 
         </p>
         <p>
           We have always done small group gifts for the stage managers from the
@@ -537,17 +685,17 @@ const Leisure = () => {
         </p>
         <p>
           In all likelihood, we will be working on Christmas Day, which falls on
-          a Monday this year (2023).
+          a Wednesday this year (2024).
         </p>
         <h4 className="holiday-title">New Year's Eve 🎉🥂🎉</h4>
         <p>
-          New Year's celebrating is going to be very tough this year, as Jan 1
+          Celebrating New Year's is going to be very tough this year, as Jan 1
           is our last day of work. In all likelihood, we will all be packing and
-          tying up whatever last ends remain so that we will be able to depart
+          tying up whatever last loose ends remain so that we will be able to depart
           as smoothly as possible on Jan 2. Nonetheless, some have managed to
           enjoy New Year's Eve celebrations despite juggling work and
           end-of-contract obligations. I have rung in several new years with
-          Colin and the band at Ned Kelly's Last Stand. Last year, Sean went on
+          Colin and the band at Ned Kelly's Last Stand. In 2022, Sean went on
           a cruise in Victoria Harbour while the rest of us stayed home and
           played Nintendo Switch! How you celebrate New Year's will be entirely
           up to you as the priority will be ensuring that you are ready to

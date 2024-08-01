@@ -11,7 +11,7 @@ const Costumes_HMU = () => {
         <p>And fun note: the costume fitting is historically one of my favorite "I'm in China" moments of the contract, simply because of the sheer number of humans present for a single fitting. I swear: one year, there was a designer, a person who just held hangers, a person who just held safety pins, a person who just held the measuring tape, a person with a notepad taking notes from the designer, a person holding my shoes, a person holding my actual costume pieces, and like 3 apprentices just watching everything. This is what happens in a country with 1.3 billion people, people!</p>
         <h4>Prop note: Pitchpipes</h4>
         <p>
-          If you own a pitchpipe (or two), pack them. Goode Time (and Disney)
+          Disney does not provide pitchpipes! If you own a pitchpipe (or two), pack them. Goode Time (and Disney)
           traditionally expect one of the boys to handle pitchpipe duties during
           performance. Ideally, each group has at least two pitchpipes
           available, in case one goes missing, is left in a costume pocket
