@@ -8,12 +8,6 @@ const FTF = () => {
             alt="2017 carolers performing tree lighting"
           />
         </div>
-        <h3 className="special-note">
-          Welcome Brian, Cesare, Donna, Jason, Rebekah, and Kelsey!!
-          <br />
-          <br />
-          Latest changes, 7/27/24: First 2024 update!
-        </h3>
         <h2 className="section-title" id="first">
           First Things First
         </h2>
@@ -55,6 +49,33 @@ const FTF = () => {
           or possibly even earlier. If anything seems out-of-date, it may well
           be. Let your friendly webmaster Nathan know if anything is clearly
           inaccurate.
+        </h3>
+        <h2 className="section-title">Latest Changes</h2>
+        <h3>
+          Welcome Brandon, Cesare, Donna, Jason, Kelsey, and Rebekah!!
+          <br />
+          <br />
+          I recommend bookmarking this site! I will also pin it to our
+          carolers-only chat on FB Messenger.
+          <br />
+          <br />
+          8/1/24: Initial 2024 site update complete. Key updates:
+          <ul>
+            <li>
+              New UI. Use menu in upper right to navigate the various pages of
+              the site.
+            </li>
+            <li>
+              Emilia added a hair/makeup primer for the ladies in the Costumes,
+              Hair, and Makeup page.
+            </li>
+            <li>Lots of new photos added in Food and Leisure pages.</li>
+            <li>Performance footage from 2023 added to Performance page.</li>
+            <li>
+              Health Care page expanded significantly, with more information
+              about handling illness, sick leave, and preventative care.
+            </li>
+          </ul>
         </h3>
       </section>
     );
