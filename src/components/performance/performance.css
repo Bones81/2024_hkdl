@@ -14,3 +14,38 @@
 .song-list {
     margin: 0;
 }
+
+iframe {
+    z-index: -99;
+}
+
+.animated {
+    border: 12px dashed;
+    animation: border-colors 2s infinite linear;
+}
+
+.centered {
+    text-align: center;
+}
+
+@keyframes border-colors {
+    0% {
+        border-color: red;
+    }
+
+    20% {
+        border-color: gold;
+    }
+
+    60% {
+        border-color: teal;
+    }
+
+    80% {
+        border-color: violet;
+    }
+
+    100% {
+        border-color: red;
+    }
+}
