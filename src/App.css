@@ -267,6 +267,10 @@ li {
   padding: 5px 5px 5px 15px;
 }
 
+li:not(.nav-item) {
+  list-style-type: "💠";
+}
+
 div p {
   margin: 1em auto 2em;
   width: 75%;
