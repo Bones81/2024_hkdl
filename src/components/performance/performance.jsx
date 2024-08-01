@@ -101,12 +101,14 @@ const Performance = () => {
       <p className="img-caption">
         Tree Lighting ceremony in 2020 with a different quartet
       </p>
+      <h3>A Cappella Sets</h3>
       <p>
         Here are some clips of the carolers doing <em>a cappella</em> sets from
         previous years. A major upgrade that you'll notice in most 2022 footage
         is that they finally gave us a microphone for our daytime caroling sets!
         Hallelujah!
       </p>
+      <h4>Main Street</h4>
       <p>The first one is from 2017, outdoors, on Main Street:</p>
       <video
         controls
@@ -133,6 +135,7 @@ const Performance = () => {
         <source src="assets/Holly_Ivy_2022.mov" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
+      <h4>Fantasyland (likely discontinued)</h4>
       <p>
         Here is footage from the Fantasyland location in front of the "It's A
         Small World" ride, which hosted carolers in 2022 and 2023. So far this
@@ -154,6 +157,7 @@ const Performance = () => {
         <source src="assets/Hark_FL.mov" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
+      <h4>Disneyland Hotel (always a possible location)</h4>
       <p>
         In 2020, we were safely ensconced in the balcony of the Disneyland Hotel
         for much of our contract, thanks to intense social distancing.
@@ -293,17 +297,17 @@ const Performance = () => {
         Rehearsals, Performance Decisions, Authority/Working Together, Goode
         Time Rep, & Disney Christmas Shows
       </h3>
-      <h4>Who's in charge of us, vocally??</h4>
+      <h4>We've never sung together! When will we have time to work on this massive Goode Time rep? How well do we have to know it? Who will guide us?</h4>
       <p>
         While HK Disney's music director, Ceejay, and his associate Felix, are
         our music directors, they will usually focus much more on the Disney
-        shows (Tree-Lighting and the new World of Frozen show, for instance) and
+        shows (Tree Lighting and the new World of Frozen show, for instance) and
         give us only limited guidance on our Goode Time repetoire. Maybe they'll
         tune pitch or fix the blend in obvious problem areas, but we are
         generally expected to know our rep very well and be ready with it at a
         moment's notice. Some years, maybe only one week into the contract, we
         will sing a song or two for Disney executives as a treat for them as
-        they discuss the upcoming Christmas season. So, ideally, you are ready
+        they discuss the upcoming Christmas season. So, ideally, you are practiced
         and comfortable with the Goode Time rep from the moment we arrive.
       </p>
       <p>
@@ -313,7 +317,7 @@ const Performance = () => {
       </p>
       <p>
         One issue that can arise is that we are tempted to devote lots of
-        self-rehearsal time to the Tree-Lighting or to any other music Disney
+        self-rehearsal time to the Tree Lighting or to any other music Disney
         may have given us. And as well we should: without a doubt Disney cares
         more about the shows they've written than any of the atmosphere work we
         do performing <em>a cappella</em> sets on Main Street or anywhere else.
@@ -324,7 +328,7 @@ const Performance = () => {
         self-rehearsal time. This has caused challenges in the past, where the
         material just isn't as performance-ready as it should be. It's up to us
         to use our self-rehearsal time to rehearse all of our Goode Time
-        material, as well as the Tree-Lighting or any other music Disney may
+        material, as well as the Tree Lighting or any other music Disney may
         assign us. Find time at Disney to warm up together, at least for a song
         or two. And take advantage of self-rehearsal opportunities. Last year,
         we would often rehearse AT LEAST one song before every set, until we
@@ -347,7 +351,7 @@ const Performance = () => {
         Tree Lighting, for example, and sometimes even after the first week or
         two of shows!
       </p>
-      <h4>No "Vocal Captain" Situation</h4>
+      <h4>Wait, so who's in charge of us, vocally?? The No "Vocal Captain" Situation</h4>
       <p>
         There is no "vocal captain" responsible for keeping us at a high
         standard when we sing Goode Time material. In the end, WE are in charge
@@ -370,11 +374,11 @@ const Performance = () => {
         I'm seeing something different in the music from what I'm hearing." And,
         like any good performer receiving a note, try to understand and take the
         suggestion in good faith if it applies to you and resist the urge to
-        complain or defend yourself. (I'm absolutely guilty of this!)
+        complain or defend yourself. (I'm absolutely guilty of this!) It's all about being a good teammate. 🙂
       </p>
       <h4 className="special-note animated">
         <h3 className="centered">!!! IMPORTANT SIDEBAR !!!</h3>
-        This merits an important side-bar about checking your pride at the door
+        This merits an important sidebar about checking your pride at the door
         and remembering the bigger picture. This gig MUST be approached in the
         spirit of teamwork. Our goal is not to pad our resume or impress higher
         ups at Disney with a stellar individual HKDL performance. Our goal is to
