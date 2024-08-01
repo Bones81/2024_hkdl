@@ -392,7 +392,7 @@ const Leisure = () => {
             the whole contract have occurred at Ned's. He'll even let you get up
             and sing a jazz standard with the band. And we've been known to
             serenade the bar with a few Christmas carols during their Christmas
-            big band show.
+            big band show. And if we're <em>really</em> lucky, Chelsea and Sean may put on their dancing shoes and tear up the floor. 🕺🏼💃🏻
           </li>
           <img
             className="list-pic"
