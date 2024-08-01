@@ -156,7 +156,7 @@ const Leisure = () => {
           <p className="img-caption">The pier at Sai Kung</p>
           <li>
             Day trip to Macao - This one involves leaving HK, and it requires at
-            least a full day! 🤞 Macao is the Vegas of the East. Walk a casino
+            least a full day! Macao is the Vegas of the East. Walk a casino
             floor, have a Portuguese egg tart (or seven), and see The House of
             Dancing Water, one of the most amazing shows you'll ever see. Or
             spend your time in the Portuguese historic quarter, see the Ruins of
