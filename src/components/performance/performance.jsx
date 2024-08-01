@@ -4,28 +4,6 @@ const Performance = () => {
   return (
     <section id="performance">
       <h2 className="section-title">Performing-Related Stuff</h2>
-      {/* <h4 className="special-note">
-          While we are no longer utilized in the "Mickey and Friends
-          Christmastime Ball," I have left in the footage of that show to
-          demonstrate the tone and style of shows at HKDL.
-        </h4>
-        <p>
-          Here is footage of the daytime show, "Mickey and Friends Christmastime
-          Ball," from 2018. This show used the carolers in the vocalist roles from
-          2017-2020.
-        </p>
-        <div className="video-holder">
-          <iframe
-            width="560"
-            height="315"
-
-            src="https://www.youtube.com/embed/mJgOeaqr7iQ"
-            frameborder="0"
-            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-            title="xmas-ball-2018"
-          ></iframe>
-        </div> */}
       <h4>
         The following footage is from past incarnations of shows we will perform
         this year, i.e. the "A Holiday Wish Come True Tree Lighting Ceremony'
@@ -297,7 +275,11 @@ const Performance = () => {
         Rehearsals, Performance Decisions, Authority/Working Together, Goode
         Time Rep, & Disney Christmas Shows
       </h3>
-      <h4>We've never sung together! When will we have time to work on this massive Goode Time rep? How well do we have to know it? Who will guide us?</h4>
+      <h4>
+        We've never sung together! When will we have time to work on this
+        massive Goode Time rep? How well do we have to know it? Who will guide
+        us?
+      </h4>
       <p>
         While HK Disney's music director, Ceejay, and his associate Felix, are
         our music directors, they will usually focus much more on the Disney
@@ -307,8 +289,9 @@ const Performance = () => {
         generally expected to know our rep very well and be ready with it at a
         moment's notice. Some years, maybe only one week into the contract, we
         will sing a song or two for Disney executives as a treat for them as
-        they discuss the upcoming Christmas season. So, ideally, you are practiced
-        and comfortable with the Goode Time rep from the moment we arrive.
+        they discuss the upcoming Christmas season. So, ideally, you are
+        practiced and comfortable with the Goode Time rep from the moment we
+        arrive.
       </p>
       <p>
         We usually have a good amount of "self-rehearsal" time baked into our
@@ -351,7 +334,10 @@ const Performance = () => {
         Tree Lighting, for example, and sometimes even after the first week or
         two of shows!
       </p>
-      <h4>Wait, so who's in charge of us, vocally?? The No "Vocal Captain" Situation</h4>
+      <h4>
+        Wait, so who's in charge of us, vocally?? The No "Vocal Captain"
+        Situation
+      </h4>
       <p>
         There is no "vocal captain" responsible for keeping us at a high
         standard when we sing Goode Time material. In the end, WE are in charge
@@ -374,7 +360,8 @@ const Performance = () => {
         I'm seeing something different in the music from what I'm hearing." And,
         like any good performer receiving a note, try to understand and take the
         suggestion in good faith if it applies to you and resist the urge to
-        complain or defend yourself. (I'm absolutely guilty of this!) It's all about being a good teammate. 🙂
+        complain or defend yourself. (I'm absolutely guilty of this!) It's all
+        about being a good teammate. 🙂
       </p>
       <h4 className="special-note animated">
         <h3 className="centered">!!! IMPORTANT SIDEBAR !!!</h3>
@@ -531,7 +518,11 @@ const Performance = () => {
         src="https://i.imgur.com/WhEqDvR.jpeg"
         alt="2023 photo moment"
       />
-      <img className="photo-moment" src="https://i.imgur.com/0N73hQo.jpeg" alt="2023 photo moment. One quartet meets the other!" />
+      <img
+        className="photo-moment"
+        src="https://i.imgur.com/0N73hQo.jpeg"
+        alt="2023 photo moment. One quartet meets the other!"
+      />
       <h4 className="special-note">
         In both 2020 and 2022, amid full COVID restrictions, we did not do photo
         moments or meet-n-greets. With COVID restrictions largely eliminated in
@@ -563,10 +554,9 @@ const Performance = () => {
       </p>
       <h3 id="song-list">Our Song List</h3>
       <p>
-        We operate on a slightly reduced song list from
-        the standard Goode Time rep. Here are the Goode Time rep songs we are
-        expected to know (as these are the songs Disney have technically
-        approved):
+        We operate on a slightly reduced song list from the standard Goode Time
+        rep. Here are the Goode Time rep songs we are expected to know (as these
+        are the songs Disney have technically approved):
       </p>
       <div className="song-lists">
         <img
@@ -609,7 +599,10 @@ const Performance = () => {
           Still, Still, Still (a lot of us love this song, but it's long and
           often hard to hear well on busy days)
         </li>
-        <li>Merry Christmas Darling (again, beautiful, but hard to hear on Main Street, and the tuning can be tough)</li>
+        <li>
+          Merry Christmas Darling (again, beautiful, but hard to hear on Main
+          Street, and the tuning can be tough)
+        </li>
         <li>Silent Night</li>
       </ul>
       <p>
@@ -643,13 +636,21 @@ const Performance = () => {
         <li>Winter Wonderland</li>
       </ul>
       <h4>Not in Victorian Outfits, Ideally</h4>
-      <p>We have received direction over the years that indicates Disney does not like certain songs when we are in our Main Street/Victorian-era costumes. The idea is that the style of these songs clashes too much with our look for their liking:</p>
+      <p>
+        We have received direction over the years that indicates Disney does not
+        like certain songs when we are in our Main Street/Victorian-era
+        costumes. The idea is that the style of these songs clashes too much
+        with our look for their liking:
+      </p>
       <ul>
         <li>Rockin' Around the Xmas Tree</li>
         <li>Feliz Navidad</li>
         <li>I Saw Mommy Kissing Santa Claus</li>
       </ul>
-      <p>But, if we ever perform in the Disneyland Hotel or in a more modern costume, those songs are much more usable.</p>
+      <p>
+        But, if we ever perform in the Disneyland Hotel or in a more modern
+        costume, those songs are much more usable.
+      </p>
       <h4>Summary</h4>
       <p className="special-note">
         The best policy will be to know everything from{" "}
@@ -914,6 +915,24 @@ const Performance = () => {
         </li>
       </ul>
       {/* <p className="special-note">Vets, let me know if you can think of any other songs we alter.</p> */}
+      <h3>Archival Christmastime Ball Footage</h3>
+      <h4 className="special-note">
+        While we are no longer utilized in the "Mickey and Friends Christmastime
+        Ball," I'll still include this 2018 footage of the show to give another example
+        of the tone and style of shows at HKDL. This show used the carolers in
+        the vocalist roles from 2017-2020. Since then, they have used year-round vocalists who perform the castle stage shows. Awesomely, one of the tenor carolers from 2023, Omar, booked this year-round contract, and we will likely see him performing this show in 2024!
+      </h4>
+      <div className="video-holder">
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/mJgOeaqr7iQ"
+          frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          title="xmas-ball-2018"
+        ></iframe>
+      </div>
     </section>
   );
 };
