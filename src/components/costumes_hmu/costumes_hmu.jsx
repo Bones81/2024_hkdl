@@ -7,6 +7,8 @@ const Costumes_HMU = () => {
           Every costume item is provided by Disney. You will not be required to
           bring any costume items of your own.
         </p>
+        <p>Despite them asking us 2-3 times already for measurements, they may well take your full measurements again during your first costume fitting, which may be as soon as day 1-2 of the contract.</p>
+        <p>And fun note: the costume fitting is historically one of my favorite "I'm in China" moments of the contract, simply because of the sheer number of humans present for a single fitting. I swear: one year, there was a designer, a person who just held hangers, a person who just held safety pins, a person who just held the measuring tape, a person with a notepad taking notes from the designer, a person holding my shoes, a person holding my actual costume pieces, and like 3 apprentices just watching everything. This is what happens in a country with 1.3 billion people, people!</p>
         <h4>Prop note: Pitchpipes</h4>
         <p>
           If you own a pitchpipe (or two), pack them. Goode Time (and Disney)
