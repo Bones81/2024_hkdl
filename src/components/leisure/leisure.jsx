@@ -663,7 +663,7 @@ const Leisure = () => {
           pumpkin pies, green beans, brussels sprouts, wine, cocktails, etc.!
         </p>
         <p>
-          With 12 of us this year, it may be fun and challenging to coordinate a group Thanksgiving. Historically, whatever quartet is off on that Thursday takes the lead in cooking dishes, heating dishes, and setting up someone's room to host the big meal. Then, when the other quartet(s) finishes work, they come home and head straight to the gettogether. 
+          With 12 of us this year, it may be fun and challenging to coordinate a group Thanksgiving. Historically, whatever quartet is off on that Thursday takes the lead in cooking dishes, heating dishes, and setting up someone's room to host the big meal. Any groups working that day would have prepped food ahead of time and given it to the group who was off so that they could ensure it was ready for dinner time. Then, when the other quartet(s) finishes work, they come home and head straight to the gettogether. 
         </p>
         <p>That said, there's no shame at all in letting someone else
           do the cooking and the dishes. In 2022 we went to Hai Di Lao Hot Pot

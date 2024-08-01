@@ -31,21 +31,21 @@ const Header = () => {
                 <nav>
                     <ul id="navbar"> 
                         <li className="nav-item"><Link to="/first-things-first" onClick={toggleMenu}>First Things First</Link></li>
-                        <li className="nav-item"><Link to="/documents" onClick={toggleMenu}>Documents</Link></li>
                         <li className="nav-item"><Link to="/hong-kong" onClick={toggleMenu}>Hong Kong Map</Link></li>
-                        <li className="nav-item"><Link to="/covid" onClick={toggleMenu}>Covid</Link></li>
-                        <li className="nav-item"><Link to="/flying" onClick={toggleMenu}>Flying</Link></li>
-                        <li className="nav-item"><Link to="/voting" onClick={toggleMenu}>Voting</Link></li>
+                        <li className="nav-item"><Link to="/documents" onClick={toggleMenu}>Documents</Link></li>
                         <li className="nav-item"><Link to="/housing" onClick={toggleMenu}>Housing</Link></li>
                         <li className="nav-item"><Link to="/food" onClick={toggleMenu}>Food</Link></li>
+                        <li className="nav-item"><Link to="/flying" onClick={toggleMenu}>Flying</Link></li>
+                        <li className="nav-item"><Link to="/communication" onClick={toggleMenu}>Communication</Link></li>
                         <li className="nav-item"><Link to="/transportation" onClick={toggleMenu}>Transportation</Link></li>
                         <li className="nav-item"><Link to="/money" onClick={toggleMenu}>Money</Link></li>
-                        <li className="nav-item"><Link to="/communication" onClick={toggleMenu}>Communication</Link></li>
                         <li className="nav-item"><Link to="/health" onClick={toggleMenu}>Health</Link></li>
                         <li className="nav-item"><Link to="/performance" onClick={toggleMenu}>Performance</Link></li>
                         <li className="nav-item"><Link to="/costumes-hmu" onClick={toggleMenu}>Costumes, Hair, Makeup</Link></li>
                         <li className="nav-item"><Link to="/leisure" onClick={toggleMenu}>Leisure</Link></li>
                         <li className="nav-item"><Link to="/packing" onClick={toggleMenu}>Packing</Link></li>
+                        <li className="nav-item"><Link to="/covid" onClick={toggleMenu}>Covid</Link></li>
+                        <li className="nav-item"><Link to="/voting" onClick={toggleMenu}>Voting</Link></li>
                         {/* Add more links for other components */}
                     </ul>
                 </nav>
